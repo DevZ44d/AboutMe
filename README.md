@@ -10,7 +10,7 @@ My Profile
 Name: z44d .
 WhoamI: university 🏫.
 Gender: Male.
-Location: Chandigarh, India.
+Location: Egypt .
 Loves: Videogames 🎮, Stuff technology 🚀, Programming 👨‍💻.
 Hobbies: Gaming, Coding while I am listening music 🎶.
 Languages: Python , C++ .

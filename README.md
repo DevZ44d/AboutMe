@@ -2,12 +2,12 @@
 z44o/z44o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&duration=6000&center=true&vCenter=true&width=1600&height=140&lines=%E2%9C%A8+Hi+there+%F0%9F%91%8B+I%27m+z44o'></h1>
+<h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&duration=6000&center=true&vCenter=true&width=1600&height=140&lines=%E2%9C%A8+Hi+there+%F0%9F%91%8B+I%27m+async'></h1>
 
 ```csharp
 My Profile
 -------------------------------
-Name: z44o.
+Name: async.
 Gender: Male.
 Location: Egypt .
 Loves: Videogames 🎮, Stuff technology 🚀, Programming 👨‍💻.
@@ -22,8 +22,7 @@ Telegram: @DevZ44d.
 <h2 align="center"> 🔎 Knowledge 📖 </h2>
 </div>
 <div align = "center">
-<p align = "justify"><b><a href = "https://z44o.github.io" ><h1>Z44d</h1></a> from Egypt who loves to work with Python and C++ , Css and Html. A year ago, I learned Html and Css, also some reverse engineering to develop apps and telegram bots and Library. Nowdays, I focus on Computer Science.
-So I do my best in every specialtation area. My programming languages are Python, C++, Css, Html, Shell Script and Powershell Script. Check my repositories and give your opinion I'll do my best and be better every day.</b>
+<p align = "justify"><b><a href = "https://devz44d.github.io" ><h1>Z44d</h1></a> 😺 I'm 𝙰𝚜𝚢𝚗𝚌 from Egypt  .  Who loves to work with Python 🐍 and C++ ⌨️ . Check my repositories and give your opinion . 🐈‍⬛.</b>
 <br>
 
 </p>
